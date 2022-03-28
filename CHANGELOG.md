@@ -1,9 +1,10 @@
-## dbt-spark 1.0.1rc1 (Release TBD)
+## dbt-spark 1.0.1rc1 (March 28, 2022)
 
 ### Fixes
 - Closes the connection properly ([#280](https://github.com/dbt-labs/dbt-spark/issues/280), [#285](https://github.com/dbt-labs/dbt-spark/pull/285))
 
 ### Under the hood
+- changes dbt-core version installed based on base branch (main, 1.0.latest) ([#307](https://github.com/dbt-labs/dbt-spark/pull/307))
 
 ### Contributors
 - [@ueshin](https://github.com/ueshin) ([#285](https://github.com/dbt-labs/dbt-spark/pull/285))
